@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Time Machine",
-  "type": "text"
+  "type": "text",
+  "book_id": 471
 }
